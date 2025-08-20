@@ -1,0 +1,9 @@
+wikipedia_nairobi.txt, source_notes: general city overview (compiled from public guides and city info), date: 2025-08-20
+nairobi_national_park.txt, source_url: https://en.wikipedia.org/wiki/Nairobi_National_Park, date: 2025-08-20
+giraffe_centre.txt, source_url: https://en.wikipedia.org/wiki/Giraffe_Centre, date: 2025-08-20
+karura_forest.txt, source_url: https://en.wikipedia.org/wiki/Karura_Forest, date: 2025-08-20
+national_museum.txt, source_url: https://en.wikipedia.org/wiki/Nairobi_National_Museum, date: 2025-08-20
+carnivore_restaurant.txt, source_notes: popular dining spot info, date: 2025-08-20
+local_food_and_markets.txt, source_notes: local food & market guidance, date: 2025-08-20
+travel_tips_and_safety.txt, source_notes: traveler safety and practical tips, date: 2025-08-20
+sample_blog_local_events.txt, source_notes: local events overview, date: 2025-08-20
