@@ -1,0 +1,32 @@
+# Core
+streamlit>=1.31.0
+python-dotenv>=1.0.0
+tqdm
+requests
+beautifulsoup4
+
+# LangChain ecosystem
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-google-genai>=0.0.6
+
+# Embeddings & Vector DB
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+chromadb>=0.4.22
+
+# LLM Providers
+openai>=1.6.1
+huggingface-hub>=0.20.3
+transformers>=4.36.2
+
+# File & Data Processing
+PyPDF2>=3.0.1
+youtube-transcript-api>=0.6.2
+
+# Optional (for reranking)
+cross-encoder>=0.1.0
+
+# UI (optional extras)
+gradio>=4.12.0
+Pillow
