@@ -5,26 +5,6 @@ An **AI-powered Retrieval-Augmented Generation (RAG) chatbot** about **Nairobi C
 Built with **Streamlit, LangChain, FAISS, HuggingFace embeddings, and Gemini (Google Generative AI)**, this chatbot retrieves knowledge from curated sources and generates **context-aware answers with citations**.  
 
 ---
-
-## 📂 Project Structure  
-
-Nairobi-RAG/
-│── app.py # Main Streamlit app
-│── requirements.txt # Python dependencies
-│── .env.example # Example environment variables
-│── faiss_index/ # Saved FAISS vector store
-│── data/ # Folder for source documents (PDFs, transcripts, blogs, etc.)
-│── images/ # Static images for UI
-│ ├── nairobi_skyline.jpg
-│ ├── national_park.jpg
-│ └── museum.jpg
-│── README.md # Project documentation (this file)
-
-yaml
-Copy code
-
----
-
 ## ⚙️ Installation  
 
 ### 1. Clone the repository  
